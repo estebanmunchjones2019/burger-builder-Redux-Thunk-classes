@@ -15,8 +15,6 @@ export class BurgerBuilder extends Component {
 
     state = {
         purchasing: false,
-        // loading: false,
-        // error: false
     }
 
     updatePurchasableState = (updatedIngredients) => {
@@ -87,10 +85,6 @@ export class BurgerBuilder extends Component {
         </React.Fragment>
         }
 
-        if (this.state.loading) {
-            orderSummary = <Spinner />;
-        }
-        
         return (
             <React.Fragment>
                 <Modal show={this.state.purchasing} modalClosed={this.purchaseCancelHandler}>
