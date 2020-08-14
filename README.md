@@ -118,7 +118,7 @@ List of implemented features:
 * Authentication
 * Auto-logout when the token expires
 * Form validation
-* Save the order and access passed ones from a Firebase Realtime Database
+* Save the current order and access the old ones from a Firebase Realtime Database
 
 List of improvements that could be done:
 
