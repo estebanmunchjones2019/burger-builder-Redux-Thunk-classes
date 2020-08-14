@@ -26,25 +26,25 @@ This project was coded to learn best React practices and patterns. [Redux](https
 
 Image#1: Home screen
 
-![image-20200814123003315](src/assets/images/image-20200814123003315.png)
+![home-screen](src/assets/images/image01.png)
 
 
 
 Image#2:  Login/Sign Up screen
 
-![image-20200814123150550](src\assets\images\image-20200814123150550.png)
+![home-screen](src/assets/images/image02.png)
 
 
 
 Image#3: Checkout screen
 
-![image-20200814123442751](src\assets\images\image-20200814123442751.png)
+![home-screen](src/assets/images/image03.png)
 
 
 
 Image#4: Orders screen
 
-![image-20200814123614950](src\assets\images\image-20200814123614950.png)
+![home-screen](src/assets/images/image04.png)
 
 
 
