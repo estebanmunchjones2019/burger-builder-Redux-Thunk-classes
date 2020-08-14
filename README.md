@@ -1,5 +1,5 @@
 # Burger Builder
-> A mobile responsive React app for ordering burgers online and see past orders stored in a database. Live app: https://myburger-6cf58.web.app/
+> A mobile responsive React app for ordering burgers online and see past orders stored in a database. Live app: https://myburger-6cf58.web.app/.
 
 
 
@@ -18,7 +18,7 @@
 
 ## General info
 
-This project was coded to practice best React practices and patterns. Redux was used to manage state and the react-thunk npm package was used to perform asynchronous tasks.
+This project was coded to learn best React practices and patterns. [Redux](https://github.com/facebook/react) was used to manage state and the [redux-thunk](https://github.com/reduxjs/redux-thunk) was used to perform asynchronous tasks.
 
 
 
@@ -26,34 +26,34 @@ This project was coded to practice best React practices and patterns. Redux was 
 
 Image#1: Home screen
 
-![image-20200814123003315](C:\Users\Esteban\AppData\Roaming\Typora\typora-user-images\image-20200814123003315.png)
+![image-20200814123003315](.\src\assets\images\image-20200814123003315.png)
 
 
 
 Image#2:  Login/Sign Up screen
 
-![image-20200814123150550](C:\Users\Esteban\AppData\Roaming\Typora\typora-user-images\image-20200814123150550.png)
+![image-20200814123150550](.\src\assets\images\image-20200814123150550.png)
 
 
 
 Image#3: Checkout screen
 
-![image-20200814123442751](C:\Users\Esteban\AppData\Roaming\Typora\typora-user-images\image-20200814123442751.png)
+![image-20200814123442751](.\src\assets\images\image-20200814123442751.png)
 
 
 
 Image#4: Orders screen
 
-![image-20200814123614950](C:\Users\Esteban\AppData\Roaming\Typora\typora-user-images\image-20200814123614950.png)
+![image-20200814123614950](.\src\assets\images\image-20200814123614950.png)
 
 
 
 ## Technologies
 
-* React - version 16.13.1
-* Redux - version 3.7.2
-* Redux-thunk - version 2.2.0
-* Firebase Realtime Database
+* [React](https://github.com/facebook/react) - version 16.13.1
+* [Redux](https://github.com/reduxjs/redux) - version 3.7.2
+* [Redux-thunk](https://github.com/reduxjs/redux-thunk) - version 2.2.0
+* [Firebase Realtime Database](https://firebase.google.com/docs/database)
 
 
 
@@ -120,11 +120,19 @@ List of implemented features:
 * Form validation
 * Save the order and access passed ones from a Firebase Realtime Database
 
+List of improvements that could be done:
+
+* Calculate the burger price on the server.
+* Edit or Cancel submitted orders
+* Add sign up/login with Google and Facebook
+* Integrate a payment  gateway
+
 ## Status
-Project is _finished_.
+Project is _finished_. 
 
 ## Inspiration
 This project was based on [Academind's `React: The Complete Guide`](https://pro.academind.com/p/react-the-complete-guide-incl-hooks-react-router-redux).
 
 ## Contact
 Created by [Esteban Munch Jones](https://www.linkedin.com/in/estebanmunchjones/)- feel free to contact me.
+
