@@ -18,7 +18,7 @@
 
 ## General info
 
-This project was coded to learn React best practices and patterns. [Redux](https://github.com/facebook/react) was used to manage state and the [redux-thunk](https://github.com/reduxjs/redux-thunk) was used to perform asynchronous tasks. There are class based and functional components.
+This project was coded to learn React best practices and patterns. [Redux](https://github.com/facebook/react) was used to manage state and [redux-thunk](https://github.com/reduxjs/redux-thunk) was used to perform asynchronous tasks. There are class based and functional components.
 
 
 
