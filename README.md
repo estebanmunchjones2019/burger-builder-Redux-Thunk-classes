@@ -1,5 +1,5 @@
 # Burger Builder
-> A mobile responsive React app for ordering burgers online and see past orders stored in a database. Live app: https://myburger-6cf58.web.app/.
+> A mobile responsive React app for ordering burgers online and seeing past orders stored in a database. Live app: https://myburger-6cf58.web.app/.
 
 
 
