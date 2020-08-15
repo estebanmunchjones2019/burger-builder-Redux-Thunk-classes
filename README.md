@@ -1,5 +1,5 @@
 # Burger Builder
-> A mobile responsive React app for ordering burgers online and seeing past orders stored in a database. Live app: https://myburger-6cf58.web.app/.
+> A mobile responsive [React](https://github.com/facebook/react) app for ordering burgers online and seeing past orders stored in a database. Live app: https://burger-builder-rtc.firebaseapp.com/.
 
 
 
@@ -18,7 +18,7 @@
 
 ## General info
 
-This project was coded to learn React best practices and patterns. [Redux](https://github.com/facebook/react) was used to manage state and [redux-thunk](https://github.com/reduxjs/redux-thunk) was used to perform asynchronous tasks. There are class based and functional components.
+This project was coded to learn [React](https://github.com/facebook/react) best practices and patterns. [Redux](https://github.com/facebook/react) was used to manage state and [redux-thunk](https://github.com/reduxjs/redux-thunk) was used to perform asynchronous tasks. There are **class based and functional components**.
 
 
 

@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "myburger-6cf58"
+  },
+  "targets": {
+    "myburger-6cf58": {
+      "hosting": {
+        "burger-builder-rtc": [
+          "burger-builder-rtc"
+        ]
+      }
+    }
   }
 }
