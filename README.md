@@ -61,6 +61,12 @@ Image#4: Orders screen
 
 * **Clone or download the repo.**
 
+* **Install all the dependencies** listed on the`package.json` file by running:
+
+  ```bash
+  npm install
+  ```
+
 * **Run the app in the development mode.**
 
   In the project directory, you can run:  
@@ -127,12 +133,21 @@ List of improvements that could be done:
 * Add sign up/login with Google and Facebook
 * Integrate a payment  gateway
 
+
+
 ## Status
+
 Project is _finished_. 
 
+
+
 ## Inspiration
+
 This project was based on [Academind's `React: The Complete Guide`](https://pro.academind.com/p/react-the-complete-guide-incl-hooks-react-router-redux).
 
+
+
 ## Contact
+
 Created by [Esteban Munch Jones](https://www.linkedin.com/in/estebanmunchjones/)- feel free to contact me.
 
