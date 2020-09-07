@@ -124,6 +124,7 @@ List of implemented features:
 * Authentication
 * Auto-logout when the token expires
 * Form validation
+* Lazy loading
 * Save the current order and access the old ones from a Firebase Realtime Database
 
 List of improvements that could be done:
